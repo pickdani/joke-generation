@@ -1,8 +1,3 @@
 # joke-generation
 
-\> train language models on r/jokes
-
-\> generate text
-
-
-\> also constructed a classifier to predict # upvotes of a joke
+trained some language models on 200,000 reddit jokes
